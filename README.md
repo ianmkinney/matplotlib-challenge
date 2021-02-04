@@ -1,7 +1,7 @@
 # matplotlib-challenge
 The Power of Plots
 
-In this challenge, the power of matplotlib, pandas, scipy, and python were used to generate valuable insights from a dataset containing research data in a pharmecutical trial on mice with tumors (what kind of tumor, it does not say!)
+In this challenge, the power of matplotlib, pandas, scipy, and python were used to generate valuable insights from a dataset containing research data in a pharmecutical trial on mice with tumors.
 
 ## Observations and Insights
 

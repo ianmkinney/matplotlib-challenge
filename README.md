@@ -15,7 +15,7 @@ In this challenge, the power of matplotlib, pandas, scipy, and python were used 
 
 ### Summary Statistics 
 
-![Statistics](images/stats.png)
+![Statistics](images/stats.PNG)
 
 ### Bar Plot
 

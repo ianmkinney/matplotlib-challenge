@@ -31,7 +31,7 @@ In this challenge, the power of matplotlib, pandas, scipy, and python were used 
 
 ### Scatter Plot
 
-![Scatter Plot](images/scatter_plot)
+![Scatter Plot](images/scatter_plot.png)
 
 ### Box Plot
 
